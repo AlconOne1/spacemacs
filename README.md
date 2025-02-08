@@ -630,7 +630,7 @@ Thank you!
 [Emacs And XEmacs]: https://www.emacswiki.org/emacs/EmacsAndXEmacs
 [Build Emacs from Source]: https://www.gnu.org/software/emacs/manual/html_node/efaq/Installing-Emacs.html
 [Emacs: Find Init]: https://www.gnu.org/software/emacs/manual/html_node/emacs/Find-Init.html
-[Emacs Plus]: https://github.com/d12frosted/homebrew-emacs-plus
+[Emacs Plus]: https://github.com/d12frosted/homebrew-emacs-plusEmacs
 [Emacs Plus features]: https://github.com/d12frosted/homebrew-emacs-plus#features-explained
 [Emacs Mac Port]: https://github.com/railwaycat/homebrew-emacsmacport
 [Emacs Mac Port features]: https://bitbucket.org/mituharu/emacs-mac/src/master/README-mac
